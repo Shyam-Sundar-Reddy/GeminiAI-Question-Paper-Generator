@@ -61,8 +61,7 @@ LANGCHAIN_API_KEY=your_langchain_api_key
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ai-question-paper-generator.git
-cd ai-question-paper-generator
+https://github.com/Shyam-Sundar-Reddy/GeminiAI-Question-Paper-Generator.git
 
 # Create virtual environment
 python -m venv venv
